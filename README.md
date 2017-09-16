@@ -17,5 +17,5 @@ pui2017
 
 3. add photo.
 
-![Alt text](screenShots/setup_env.png)
-![Alt text](screenShots/fbianco_bash.png)
+![Alt text](001.png)
+![Alt text](002.png)
