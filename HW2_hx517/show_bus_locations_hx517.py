@@ -10,10 +10,10 @@ url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + sys.argv
 
 
 response = urllib.urlopen(url)
-data = json.loads(data)
 data = response.read().decode("utf-8")
+data = json.loads(data)
 
-if not len(sys.argv) == 3:
+if len(sys.argv) <> 3:
     print ("Invalid number of arguments.")
     sys.exit()
 
