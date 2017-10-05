@@ -3,7 +3,7 @@ I discussed assignment 1 with Zhiao Zhou, Cheng Ma, Hongkai He . I came up with 
 
 Zhiao Zhou guided me something about distribution.
 
-Assignment 1:
+Assignment 1:  
 Plot Chi-square distribution, Normal distribution, Poisson distribution, Binomial distribution, and Beta distribution.
 Plot the distribution of means with different sample size of each distribution.
 Fit a gaussian to the distribution of means.
