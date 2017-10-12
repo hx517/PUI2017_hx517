@@ -8,7 +8,7 @@ After someone else commented on my homework, my git push seemed to have a proble
 
 # Assignment 2
 
-work with Cheng Ma, Yixuan Tang
+work with Cheng Ma(cm4692), Yixuan Tang(yt1369)
 deal with the part of correlation.
 
 
@@ -22,3 +22,14 @@ Correlation	| 1, eggs per gram of feces | Numerical | 1，The numbers of the wor
 Logistic Regression	| 10, patients’ characte（age, disease duration, fractional disease duration (disease duration/age), age at diagnosis of T1DM, baseline HbA1c, height, weight, body mass index (BMI), insulin dose per injection, total daily insulin dose, visit interval to the hospital） | continuous (could also be categoridcal) | 1, HbA1c status satisfactory or not| categorical |   | continuous (could also be categoridcal) | 	identify patient characteristics that were predictive of satisfactory glycaemic control in the paediatric population | a specific patient characteristics has no correlation with HbA1c status | 0.05 | [Prediction of glycaemic control in young children and adolescents with type 1 diabetes mellitus using mixed-effects logistic regression modelling](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0182181) |
   
   
+# Assignment 3
+
+Did the Z-test and the Chi-squre test.
+
+# Assignment 4
+
+Group work with Cheng Ma(cm4692),Yixuan Tang(yt1369)
+
+
+
+
