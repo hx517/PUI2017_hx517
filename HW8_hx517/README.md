@@ -4,4 +4,4 @@
 #    
 #    
 #    
-##### I plot NYC population map by zipcode.
+##### I plot NYC income map by zipcode.
