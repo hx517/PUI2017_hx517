@@ -25,6 +25,7 @@ The plot doesn't seem to be deforming data. One interesting element is that Cent
 
 
 **IMPROVEMENTS TO PLOT**
+
 All the above feedback could be used to make improvements. I think the two most urgent improvements are: 
 
 - Add a legend 
