@@ -2,7 +2,7 @@
 
 ## Assignment 1
      
-**Done by myself. **
+**Done by myself. **    
 **Zhiao Zhou give me some guidance.**
 
 TIME SERIES ANALYSIS
