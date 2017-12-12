@@ -1,6 +1,7 @@
 # Homework 11
 
-## Assignment 1
+## Assignment 1 
+**Time series clustering exercise**
      
 **All done by myself.**    
 - Downloading data cost too much time, though I still managed it.
