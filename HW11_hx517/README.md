@@ -10,4 +10,4 @@
     
 ## Assignment 2
 
--Zhiao Zhou helped me add a loop to rendering the clustering as an animation.
+- Zhiao Zhou helped me add a loop to rendering the clustering as an animation.
