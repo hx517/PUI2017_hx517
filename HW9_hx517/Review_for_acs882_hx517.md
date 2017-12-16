@@ -19,3 +19,4 @@
 **Recommendation**
 - would it be better to change the title from "Deaths vs. Injuries" to, like " Injuries percentage per hour in one day"? After all, injuries and deaths have different base number, so this comparison is unfair to some extent.
 
+# FBB very good
