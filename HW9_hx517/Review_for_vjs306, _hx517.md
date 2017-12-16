@@ -19,3 +19,8 @@
 **Recommendation**
 - would it be better to give more textual annotations to this map?
 
+
+# FBB additionally: 
+the static image of the plot has relevant areas cut out (SI and BX) while portion of NJ, which is not part of the analysis, are shown
+
+10/10
